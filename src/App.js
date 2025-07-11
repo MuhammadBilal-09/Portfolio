@@ -1,4 +1,5 @@
 import React from 'react'
+import './assets/css/main.css';
 import Navbar from './components/Navbar';
 import Home from './components/Home';
 import Work from './components/Work';
